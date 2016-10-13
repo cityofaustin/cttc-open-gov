@@ -15,4 +15,5 @@ The Open Government Working Group is a formal part of the CTTC that performs spe
 #### See also
 
 - [Primary website for Community Technology and Telecommunication Commission](https://austintexas.gov/cttc)
+- [CTTC 2016 Agendas and meeting documents](http://austintexas.gov/cityclerk/boards_commissions/meetings/10_1.htm)
 - [City of Austin website about City Boards and Commissions](https://austintexas.gov/department/boards-and-commissions)
