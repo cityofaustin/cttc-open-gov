@@ -116,4 +116,5 @@
 ### 5. Future Agenda Items
 
 - Nov: Telecom Providers Panel
+  - update meeting schedule
 - Dec: Austin Technology Council and/or ATI
