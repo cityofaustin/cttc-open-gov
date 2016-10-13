@@ -99,9 +99,21 @@
 ### 4. Staff Briefings
 
 - Legislative & Regulatory Overview, PEG _(written report)_
-- Distracted Driving Ordinance (written report)
+- Distracted Driving Ordinance _(written report)_
   - 5,100 tickets since 2015
   - 3,400 tickets in 2016 to date
 - Airport Technology _(coming soon)_
-- 2017 Grant for Tech Opportunities Program (GTOPS) and Digital Inclusion Strategic Plan Implentation Update
-  - Steering Committee Meeting
+- 2017 Grant for Tech Opportunities Program (GTOPS) and Digital Inclusion Strategic Plan Implentation Update from **John Speirs**
+  - Steering Committee Meeting Updates
+  - Digital Empowerment Community of Austin (DECA)
+    - Community meeting **Friday, October 21st** from 9 a.m. to 12 noon @ YMCA North (1000 W Rundberg Lane).
+  - [GTOPS.org](https://gtops.org)
+    - grant reviewers needed
+    - applications open
+
+
+
+### 5. Future Agenda Items
+
+- Nov: Telecom Providers Panel
+- Dec: Austin Technology Council and/or ATI
