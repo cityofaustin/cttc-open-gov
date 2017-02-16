@@ -1,8 +1,18 @@
 # CTTC Open Government Working Group
 
-## about this repo
+## about this website
 
-This repo has been created to store documents related to the Community Technology and Telecommunications Commission's Open Government Working Group such as meeting agendas and minutes. It is newly created and will be updated soon.
+This site has been created to store documents related to the Community Technology and Telecommunications Commission's Open Government Working Group such as meeting agendas and minutes.
+
+**Meeting agendas and backup materials can be found at the [CTTC main site](http://austintexas.gov/cttc)**
+
+## meeting notes
+
+- [Feb 8, 2017](notes/2017_02_08.md)
+- [Oct 12, 2016 Open Gov Working Group Updates](notes/2016_10_12_commission_meeting_notes.md)
+- [Oct 12, 2016 Meeting Notes](notes/2016_10_12_updates.md)
+- [Sept 14, 2016](notes/2016_09_14_updates.md)
+
 
 ## about the CTTC
 
