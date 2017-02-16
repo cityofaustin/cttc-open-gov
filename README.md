@@ -8,7 +8,9 @@ This site has been created to store documents related to the Community Technolog
 
 ## meeting notes
 
-- [Feb 8, 2017](notes/2017_02_08.md)
+- [Feb 8, 2017 Open Gove Working Group Updates](notes/2017_02_08_ogwg.md)
+- [Feb 8, 2017 Task Force for Community Engagement Recommendation Updates](notes/2017_02_08_tfce.md)
+- [Feb 8, 2017 Telecom Provider Panel](notes/2017_02_08_telecom_providers.md)
 - [Oct 12, 2016 Open Gov Working Group Updates](notes/2016_10_12_commission_meeting_notes.md)
 - [Oct 12, 2016 Meeting Notes](notes/2016_10_12_updates.md)
 - [Sept 14, 2016](notes/2016_09_14_updates.md)
